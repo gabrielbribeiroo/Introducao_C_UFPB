@@ -1,7 +1,7 @@
 # Introduction to Programming
 
 ## Abstract
-This repository contains exercise codes for the Introduction to Programming discipline carried out in the C language.
+This repository contains exercise code for the Introduction to Programming discipline carried out in the C language.
 
 ## Goals
 - **Algorithms**: Become familiar with the basic concepts of programming and algorithms.
@@ -10,8 +10,8 @@ This repository contains exercise codes for the Introduction to Programming disc
 - **User experience**: Introduce the programming language and development environment.
 
 ## Languages and Tools
-- **IDEs (Integrated Development Environments)**: Some environments such as Visual Studio Code (VS Code) were used to facilitate visualization.
-- **Command prompt**: Using the terminal to compile codes.
+- **IDEs (Integrated Development Environments)**: Some environments, such as Visual Studio Code (VS Code), were used to facilitate visualization.
+- **Command prompt**: Using the terminal to compile code.
 
 <div style="display: inline_block"><cbr>
   <img align = "top" alt = "gabrielbribeiroo_C" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -20,4 +20,4 @@ This repository contains exercise codes for the Introduction to Programming disc
 </div>
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
